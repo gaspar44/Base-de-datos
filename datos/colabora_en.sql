@@ -1,0 +1,10 @@
+INSERT INTO COLABORA_EN (TRADUCTOR_NOMBRE, COLABORACIONES_TITULO) VALUES ('Balart, Federico', 'Traducción de Víctor Hugo');
+INSERT INTO COLABORA_EN (TRADUCTOR_NOMBRE, COLABORACIONES_TITULO) VALUES ('Cánovas del Castillo, Antonio', 'Canción de un prisionero');
+INSERT INTO COLABORA_EN (TRADUCTOR_NOMBRE, COLABORACIONES_TITULO) VALUES ('Gil, Isidoro', 'El chapín del rey o parras verdes. Jácara portuguesa');
+INSERT INTO COLABORA_EN (TRADUCTOR_NOMBRE, COLABORACIONES_TITULO) VALUES ('Gil, Isidoro', 'Literatura extranjera. Miragaya');
+INSERT INTO COLABORA_EN (TRADUCTOR_NOMBRE, COLABORACIONES_TITULO) VALUES ('Gil, Isidoro', 'Literatura extranjera. Tradición portuguesa. Miragaya');
+INSERT INTO COLABORA_EN (TRADUCTOR_NOMBRE, COLABORACIONES_TITULO) VALUES ('Gil, Isidoro ', 'Bernal-Francés. Romance portugués');
+INSERT INTO COLABORA_EN (TRADUCTOR_NOMBRE, COLABORACIONES_TITULO) VALUES ('Pezuela, Juan de la', 'Dante Alighieri. El Infierno. Canto V');
+INSERT INTO COLABORA_EN (TRADUCTOR_NOMBRE, COLABORACIONES_TITULO) VALUES ('Príncipe, Miguel Agustín', 'Poesías. Literatura extranjera. Zaragoza sitiada y rendida');
+INSERT INTO COLABORA_EN (TRADUCTOR_NOMBRE, COLABORACIONES_TITULO) VALUES ('Zorrilla, José', 'Sonetos <em>A la muerte del Redentor </em>y a<em> La muerte de</em> <em>Judas</em>,traducidos del italiano por D. José Zorrilla');
+INSERT INTO COLABORA_EN (TRADUCTOR_NOMBRE, COLABORACIONES_TITULO) VALUES ('Zorrilla, José', 'Sonetos traducidos del italiano por D. José Zorrilla a la muerte de Judas (1)');
