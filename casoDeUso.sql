@@ -328,7 +328,7 @@ ALTER TABLE publicar_cuento
 @datos/traductor.sql;
 @datos/hace.sql;
 
-@datos/publica_traduccion.sql;
+--@datos/publica_traduccion.sql;
 
 @datos/colaboraciones.sql;
 @datos/colabora_en.sql;
